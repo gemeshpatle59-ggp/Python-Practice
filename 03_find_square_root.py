@@ -5,7 +5,7 @@ print("-------SQUAREROOT OF NUMBER-------")
 print("==================================")
 
 
-# METHOD 1...
+# METHOD 1... 
 
 num = float(input("Enter a number here : "))
 
@@ -17,7 +17,7 @@ print(f""
       f"\nthe squareroot of no.'{num}' is ==' {square} '=="
       )
 
-# METHOD 2..
+# METHOD 2.. we import math 
 
 import math
 
