@@ -1,6 +1,5 @@
 # Check whether a number is a multiple of another number
 
-
 try:
     n = int(input("Enter the number here.: "))
     m = int(input("Enter the number here.: "))
