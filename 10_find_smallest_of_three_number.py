@@ -1,6 +1,5 @@
 # Find the smallest of three numbers
 
-
 try:
     n = float(input("Enter the 1st number here.: "))
     m = float(input("Enter the 2st number here.: "))
