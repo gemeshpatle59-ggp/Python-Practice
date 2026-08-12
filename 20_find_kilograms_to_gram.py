@@ -1,4 +1,4 @@
-# Convert kilograms to grams
+# Convert kilograms to grams.
 
 try:
     n = float(input("Enter the kilogram here.: "))
