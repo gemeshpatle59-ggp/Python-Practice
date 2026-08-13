@@ -9,6 +9,7 @@ try:
 
     print(f"The compond intrest is {ci:.2f}")
 
+
 except ValueError:
     print("Enter the correct value")
 
