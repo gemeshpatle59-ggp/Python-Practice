@@ -5,7 +5,7 @@ try:
     m = int(input("Enter the Rate of intrest here.: "))
     o = int(input("Enter the Time period here.: "))
 
-    si = (n*m*o)/100
+    si = (n*m*o)/100 
 
     print("The simple intrest is",si)
 
