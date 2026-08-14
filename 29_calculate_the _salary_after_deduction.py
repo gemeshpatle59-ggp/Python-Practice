@@ -6,9 +6,9 @@ try:
     p = int(input("Enter the other deducation amount here .: "))
 
     pf_deducation = n *(m/100)
-    tac_deducation = n * (o/100)
+    tax_deducation = n * (o/100)
 
-    total_deducation = pf_deducation + tac_deducation + p
+    total_deducation = pf_deducation + tax_deducation + p
 
     net_salary = n - total_deducation
 
