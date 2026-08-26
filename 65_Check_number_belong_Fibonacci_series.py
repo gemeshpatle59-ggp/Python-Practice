@@ -6,9 +6,8 @@ def fibonacci():
         n = int(input("Enter the number here: "))
 
         if n < 0:
-            print(f"{n} does not belong to Fibonacci series.")
+            print(f"{n} Does not belong to Fibonacci series.")
             return
-            
 
         a = 0
         b = 1
@@ -21,7 +20,6 @@ def fibonacci():
         else:
             print(f"{n} do not belong to fibnoacci number .")
     
-
     except ValueError:
         print("please enter a valid number")
 
