@@ -15,4 +15,4 @@ try:
     print(f"The net salary is {net_salary:.2f}")
 
 except ValueError:
-    print("please enter the vaild number in input..")    
+    print("please enter your vaild number in input..")    
