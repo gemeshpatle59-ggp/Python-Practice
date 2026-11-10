@@ -2,18 +2,18 @@
 
 def even_odd_in_list(l1):
 
-    even = 0
-    odd = 0
+    even = []
+    odd = []
 
     for x in l1:
         if x % 2 == 0:
-            even += 1
+            even.append(x)
 
         else:
-            odd += 1
+            odd.append(x)
 
     return f"even = {even} \nodd = {odd}"
 
 
-nums = [1,2,3,4,5,6,7,8,9.10]
+nums = [1,2,3,4,5,6,7,8,9,10]
 print(even_odd_in_list(nums))
