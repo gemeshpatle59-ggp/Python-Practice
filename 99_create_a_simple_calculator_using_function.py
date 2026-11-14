@@ -21,6 +21,7 @@ def calulator(a , b):
             return(a / b)
 
         else:
+
             print("please choose correct sign ('-','+','*','/')")
 
 a = int(input("Enetr a number.: "))
