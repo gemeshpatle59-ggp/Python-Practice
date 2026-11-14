@@ -11,6 +11,7 @@ def frequency(l1):
         else:
             freq[x] = 1
 
+
     for x in freq:
         print(f"item = {x} \nfrequency = {freq[x]} \n ")
 
