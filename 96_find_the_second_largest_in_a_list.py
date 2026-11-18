@@ -10,8 +10,6 @@ def second_largest_element(l1):
             y = x
             x = i
 
-
-
     return y
 
 print(second_largest_element([1,2,3,4,5,4,8,9,7,6]))
