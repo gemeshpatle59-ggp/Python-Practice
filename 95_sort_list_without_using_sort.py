@@ -11,6 +11,7 @@ def bubble_sort(l1):
                 l1[y] , l1[y+1] = l1[y+1] , l1[y]
                 is_swaped = True
 
+
         if not is_swaped:
             break
 
